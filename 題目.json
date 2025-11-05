@@ -1,0 +1,1249 @@
+{
+    "evalID": 4,
+    "normalQues": [
+        {
+            "id": 37,
+            "quesTitle": "受到\"美國關稅\"變動的影響程度",
+            "quesTitleAdd": null,
+            "quesText": "關稅與匯率狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 167,
+                    "optionText": "沒影響",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 114,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 168,
+                    "optionText": "稍有影響",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 115,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 169,
+                    "optionText": "有影響",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 116,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 170,
+                    "optionText": "影響大",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 117,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 171,
+                    "optionText": "影響嚴重",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 118,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "quesTitle": "受到\"美元匯率\"變動的影響程度",
+            "quesTitleAdd": null,
+            "quesText": "關稅與匯率狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 172,
+                    "optionText": "沒影響",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 119,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 173,
+                    "optionText": "稍有影響",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 120,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 174,
+                    "optionText": "有影響",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 121,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 175,
+                    "optionText": "影響大",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 122,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 176,
+                    "optionText": "影響嚴重",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 123,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "quesTitle": "整體影響\"進口\"商品價格",
+            "quesTitleAdd": null,
+            "quesText": "關稅與匯率狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 177,
+                    "optionText": "更便宜",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 124,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 178,
+                    "optionText": "較便宜",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 125,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 179,
+                    "optionText": "不變",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 126,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 180,
+                    "optionText": "變貴",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 127,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 181,
+                    "optionText": "貴很多",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 128,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "quesTitle": "整體影響\"出口\"商品價格",
+            "quesTitleAdd": null,
+            "quesText": "關稅與匯率狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 182,
+                    "optionText": "更便宜",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 129,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 183,
+                    "optionText": "較便宜",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 130,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 184,
+                    "optionText": "不變",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 131,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 185,
+                    "optionText": "變貴",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 132,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 186,
+                    "optionText": "貴很多",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 133,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "quesTitle": "國際市場佔公司營收比",
+            "quesTitleAdd": null,
+            "quesText": "市場交易狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 192,
+                    "optionText": "無",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 139,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 193,
+                    "optionText": "有一些",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 140,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 194,
+                    "optionText": "一定份量",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 141,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 195,
+                    "optionText": "可觀",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 142,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 196,
+                    "optionText": "非常大",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 143,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "quesTitle": "美國市場佔公司營收比",
+            "quesTitleAdd": null,
+            "quesText": "市場交易狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 197,
+                    "optionText": "無",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 144,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 198,
+                    "optionText": "有一些",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 145,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 199,
+                    "optionText": "一定份量",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 146,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 200,
+                    "optionText": "可觀",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 147,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 201,
+                    "optionText": "非常大",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 148,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "quesTitle": "外幣佔公司交易比",
+            "quesTitleAdd": null,
+            "quesText": "市場交易狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 202,
+                    "optionText": "無",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 149,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 203,
+                    "optionText": "有一些",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 150,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 204,
+                    "optionText": "一定份量",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 151,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 205,
+                    "optionText": "可觀",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 152,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 206,
+                    "optionText": "非常大",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 153,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "quesTitle": "美元佔公司交易比",
+            "quesTitleAdd": null,
+            "quesText": "市場交易狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 207,
+                    "optionText": "無",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 154,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 208,
+                    "optionText": "有一些",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 155,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 209,
+                    "optionText": "一定份量",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 156,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 210,
+                    "optionText": "可觀",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 157,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 211,
+                    "optionText": "非常大",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 158,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "quesTitle": "公司評估模擬哪些項目",
+            "quesTitleAdd": null,
+            "quesText": "評估模擬狀況",
+            "quesType": "02",
+            "options": [
+                {
+                    "id": 217,
+                    "optionText": "周轉資金",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 164,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 218,
+                    "optionText": "產品成本",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 165,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 219,
+                    "optionText": "產品毛利",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 166,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 220,
+                    "optionText": "訂單毛利",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 167,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 221,
+                    "optionText": "租稅費用",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 168,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "quesTitle": "公司針對哪些交易條件採取行動",
+            "quesTitleAdd": null,
+            "quesText": "行動狀況",
+            "quesType": "02",
+            "options": [
+                {
+                    "id": 227,
+                    "optionText": "與客戶談判",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 174,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 228,
+                    "optionText": "與供應商談判",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 175,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 229,
+                    "optionText": "改變出貨產地",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 176,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 230,
+                    "optionText": "調整報關手法",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 177,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 231,
+                    "optionText": "開拓新市場",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 178,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "quesTitle": "公司針對交易貨幣採取哪些行動",
+            "quesTitleAdd": null,
+            "quesText": "行動狀況",
+            "quesType": "02",
+            "options": [
+                {
+                    "id": 232,
+                    "optionText": "無",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 179,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 233,
+                    "optionText": "多元貨幣結算",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 180,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 234,
+                    "optionText": "貨幣對沖談判",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 181,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 235,
+                    "optionText": "金融工具避險",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 182,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 236,
+                    "optionText": "動態訂價",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 183,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "quesTitle": "公司針對哪些管理項目採取行動",
+            "quesTitleAdd": null,
+            "quesText": "行動狀況",
+            "quesType": "02",
+            "options": [
+                {
+                    "id": 237,
+                    "optionText": "資本支出",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 184,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 238,
+                    "optionText": "工作時間",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 185,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 239,
+                    "optionText": "人力結構",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 186,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 240,
+                    "optionText": "費用",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 187,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 241,
+                    "optionText": "薪資福利",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 188,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "quesTitle": "公司針對哪些生產項目採取行動",
+            "quesTitleAdd": null,
+            "quesText": "行動狀況",
+            "quesType": "02",
+            "options": [
+                {
+                    "id": 242,
+                    "optionText": "生產成本",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 189,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 243,
+                    "optionText": "生產效率",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 190,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 244,
+                    "optionText": "品質良率",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 191,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 245,
+                    "optionText": "存貨周轉",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 192,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 246,
+                    "optionText": "能源使用",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 193,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "quesTitle": "公司採用何種工具或方法推進",
+            "quesTitleAdd": null,
+            "quesText": "行動狀況",
+            "quesType": "02",
+            "options": [
+                {
+                    "id": 247,
+                    "optionText": "制度化管理",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 194,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 248,
+                    "optionText": "精實管理",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 195,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 249,
+                    "optionText": "資訊系統",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 196,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 250,
+                    "optionText": "AI工具",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 197,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 251,
+                    "optionText": "智慧製造",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 198,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "evalQues": [
+        {
+            "id": 36,
+            "quesTitle": "相較於2025/4美國關稅開始前，目前公司營收變化狀況",
+            "quesTitleAdd": null,
+            "quesText": "營運狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 162,
+                    "optionText": "大幅下滑",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 109,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 163,
+                    "optionText": "下滑",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 110,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 164,
+                    "optionText": "沒變",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 111,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 165,
+                    "optionText": "上升",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 112,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 166,
+                    "optionText": "大幅上升",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 113,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "quesTitle": "公司整體獲利變化",
+            "quesTitleAdd": null,
+            "quesText": "關稅與匯率狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 187,
+                    "optionText": "賺更多",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 134,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 188,
+                    "optionText": "賺較多",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 135,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 189,
+                    "optionText": "不變",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 136,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 190,
+                    "optionText": "賺較少",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 137,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 191,
+                    "optionText": "賺更少",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 138,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "quesTitle": "計算評估公司受衝擊程度",
+            "quesTitleAdd": null,
+            "quesText": "評估模擬狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 212,
+                    "optionText": "不需要",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 159,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 213,
+                    "optionText": "不知怎麼計劃與開始",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 160,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 214,
+                    "optionText": "知道但還沒計劃",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 161,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 215,
+                    "optionText": "已開始演算但尚未完全",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 162,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 216,
+                    "optionText": "已演算完成",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 163,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "quesTitle": "公司因應未來潛在的經營壓力的行動",
+            "quesTitleAdd": null,
+            "quesText": "行動狀況",
+            "quesType": "01",
+            "options": [
+                {
+                    "id": 222,
+                    "optionText": "不需要",
+                    "optionValue": 1,
+                    "optionItems": [
+                        {
+                            "id": 169,
+                            "itemText": "0%",
+                            "itemValue": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 223,
+                    "optionText": "不知怎麼行動",
+                    "optionValue": 2,
+                    "optionItems": [
+                        {
+                            "id": 170,
+                            "itemText": "0%",
+                            "itemValue": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 224,
+                    "optionText": "知道但還沒行動",
+                    "optionValue": 3,
+                    "optionItems": [
+                        {
+                            "id": 171,
+                            "itemText": "0%",
+                            "itemValue": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 225,
+                    "optionText": "已開始行動但尚未完全",
+                    "optionValue": 4,
+                    "optionItems": [
+                        {
+                            "id": 172,
+                            "itemText": "0%",
+                            "itemValue": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 226,
+                    "optionText": "已達成行動效果",
+                    "optionValue": 5,
+                    "optionItems": [
+                        {
+                            "id": 173,
+                            "itemText": "0%",
+                            "itemValue": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

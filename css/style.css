@@ -1,0 +1,30 @@
+@layer survey {
+  #survey-container {
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  .q-title {
+    font-weight: 700;
+    margin-top: 1rem;
+  }
+
+  .q-subtitle {
+    font-weight: 400;
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 0.5rem;
+  }
+
+  .q-option {
+    margin-left: 0.5rem;
+  }
+
+  .progress-wrapper {
+    height: 1.5rem;
+  }
+
+  .progress-bar-inner {
+    width: 0%;
+    transition: width 0.3s;
+  }
+}

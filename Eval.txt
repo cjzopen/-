@@ -1,0 +1,110 @@
+    // 獲取評量基本資訊
+    public class Eval
+    {
+        public int ID { get; set; }
+        public string EvalCode { get; set; }
+        public string EvalTitle { get; set; }
+        public string EvalDescription { get; set; }
+        public int HasPromoComment { get; set; }
+        public int IsSendMail { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
+    // 獲取評量題目 
+    public class EvalQues
+    {
+        public int ID { get; set; }
+        public int EvalID { get; set; }
+        public string QuesTitle { get; set; }
+        public string QuesTitleAdd { get; set; }
+        public string QuesText { get; set; }
+        public string QuesCategory { get; set; }
+        public string QuesType { get; set; }
+        public string ScoreCalcLogic { get; set; }
+        public int QuesOrder { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
+    // 獲取評量選項
+    public class EvalAnsOption
+    {
+        public int ID { get; set; }
+        public int QuesID { get; set; }
+        public string OptionText { get; set; }
+        public int OptionValue { get; set; }
+        public int OptionOrder { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
+    // 獲取評量選項的子值
+    public class EvalAnsOptionItem
+    {
+        public int ID { get; set; }
+        public int AnsOptionID { get; set; }
+        public string ItemText { get; set; }
+        public int ItemValue { get; set; }
+        public int ItemOrder { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
+    // 獲取客戶資訊
+    public class EvalCustomer
+    {
+        public int ID { get; set; }
+        public string EvalCode { get; set; }
+        public int CustomerID { get; set; }
+        public string Name { get; set; }
+        public string Job { get; set; }
+        public string JobClass { get; set; }
+        public string Company { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+        public string SuggestSource { get; set; }
+        public string IndustrialClass { get; set; }
+        public string ReportLink { get; set; }
+        public DateTime CreatedAt { get; set; }
+
+    }
+
+    // 新增每題評量答案
+    public class EvalReport
+    {
+        public int ID { get; set; }
+        public int CustomerID { get; set; }
+        public int EvalID { get; set; }
+        public int QuesID { get; set; }
+        public int AnsOptionID { get; set; }
+        public int AnsOptionItemID { get; set; }
+        public double Value { get; set; }
+        public string Text { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
+    // 新增評量分數計算
+    public class EvalReportScore
+    {
+        public int ID { get; set; }
+        public int CustomerID { get; set; }
+        public int EvalID { get; set; }
+        public int QuesID { get; set; }
+        public double EvalScore { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
+    public class EvalReferenceLink
+    {
+        public int ID { get; set; }
+        public int EvalID { get; set; }
+        public string LinkText { get; set; }
+        public string Link { get; set; }
+        public int Order { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
+    }
+
